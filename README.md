@@ -15,3 +15,5 @@ To get a human readable *cpu* temperature divide it by 1000
 {"cpu":54768, "gpu":54.8}
 ```
 <img src="http://i.imgur.com/tnenohv.png" width="700">
+
+test data bla
